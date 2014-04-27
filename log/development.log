@@ -1,0 +1,44 @@
+[Sat Apr 26 21:59:31 2014] [info] Listening at "http://*:3000".
+[Sat Apr 26 21:59:37 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 26 21:59:37 2014] [debug] GET "/result".
+[Sat Apr 26 21:59:37 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sat Apr 26 21:59:37 2014] [debug] Template "not_found.html.ep" not found.
+[Sat Apr 26 21:59:37 2014] [debug] Rendering inline template "b260ba41ebf72d49075cbbc0f6086768".
+[Sat Apr 26 21:59:37 2014] [debug] Rendering inline template "f460d533626235abe1fccfae3f785367".
+[Sat Apr 26 21:59:37 2014] [debug] 404 Not Found (0.033534s, 29.820/s).
+[Sat Apr 26 22:01:13 2014] [debug] GET "/".
+[Sat Apr 26 22:01:13 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:01:13 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 26 22:01:13 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 26 22:01:13 2014] [debug] 200 OK (0.022710s, 44.033/s).
+[Sat Apr 26 22:03:10 2014] [debug] Your secret passphrase needs to be changed!!!
+[Sat Apr 26 22:03:10 2014] [debug] GET "/".
+[Sat Apr 26 22:03:10 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:03:10 2014] [debug] Rendering template "example/welcome.html.ep".
+[Sat Apr 26 22:03:10 2014] [debug] Rendering template "layouts/default.html.ep".
+[Sat Apr 26 22:03:10 2014] [debug] 200 OK (0.020280s, 49.310/s).
+[Sat Apr 26 22:03:12 2014] [debug] GET "/".
+[Sat Apr 26 22:03:12 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:03:12 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Apr 26 22:03:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Apr 26 22:03:12 2014] [debug] 200 OK (0.000990s, 1010.101/s).
+[Sat Apr 26 22:03:13 2014] [debug] GET "/".
+[Sat Apr 26 22:03:13 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:03:13 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Apr 26 22:03:13 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Apr 26 22:03:13 2014] [debug] 200 OK (0.000925s, 1081.081/s).
+[Sat Apr 26 22:05:09 2014] [debug] GET "/".
+[Sat Apr 26 22:05:09 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:05:09 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Apr 26 22:05:09 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Apr 26 22:05:09 2014] [debug] 200 OK (0.000793s, 1261.034/s).
+[Sat Apr 26 22:05:11 2014] [debug] GET "/".
+[Sat Apr 26 22:05:11 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:05:11 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Apr 26 22:05:11 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Apr 26 22:05:11 2014] [debug] 200 OK (0.000828s, 1207.729/s).
+[Sat Apr 26 22:05:12 2014] [debug] GET "/".
+[Sat Apr 26 22:05:12 2014] [debug] Routing to controller "Station::Web::Example" and action "welcome".
+[Sat Apr 26 22:05:12 2014] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Apr 26 22:05:12 2014] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Apr 26 22:05:12 2014] [debug] 200 OK (0.000825s, 1212.121/s).
